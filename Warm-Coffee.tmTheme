@@ -14,7 +14,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#382621</string>
+				<string>#2E2725</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
@@ -142,7 +142,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#F0D60E</string>
+				<string>#B0A43A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -155,7 +155,7 @@
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#F0D60E</string>
+				<string>#B0A43A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -168,7 +168,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E8E22C</string>
+				<string>#B08639</string>
 			</dict>
 		</dict>
 		<dict>
@@ -220,7 +220,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E8E22C</string>
+				<string>#B08639</string>
 			</dict>
 		</dict>
 		<dict>
@@ -288,17 +288,6 @@
 				<string>#F8F8F0</string>
 			</dict>
 		</dict>
-<!-- 		<dict>
-			<key>name</key>
-			<string>ClassName</string>
-			<key>scope</key>
-			<string>meta.class</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#F0D60E</string>
-			</dict>
-		</dict> -->
 		<dict>
 			<key>name</key>
 			<string>Operator</string>
@@ -327,7 +316,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.citrus_power</string>
+	<string>theme.dark.warm_coffee</string>
 	<key>author</key>
 	<string>Tech-Asteroid</string>
 	<key>comment</key>
